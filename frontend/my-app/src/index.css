@@ -1,0 +1,51 @@
+/* src/styles.css */
+
+body {
+  margin: 0;
+  padding: 0;
+  min-height: 100vh;
+  background: linear-gradient(to bottom right, #e0f2fe, #d8b4fe); /* Gradient background */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-family: sans-serif;
+}
+
+.glassy-card {
+  background-color: rgba(255, 255, 255, 0.2); /* Semi-transparent white */
+  backdrop-filter: blur(10px); /* Glass effect */
+  padding: 2rem;
+  border-radius: 1rem;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  transition: background-color 0.3s ease; /* Smooth transition */
+  max-width: 800px;
+  width: 90%;
+  margin: 1rem;
+}
+
+.glassy-card:hover {
+  background-color: rgba(255, 255, 255, 0.3); /* Slightly more opaque on hover */
+}
+
+.glassy-card h2 {
+  font-size: 1.5rem;
+  margin-bottom: 1rem;
+  color: #333;
+}
+
+glassy-card p {
+  color: #555;
+  line-height: 1.6;
+}
+
+/* Responsive adjustments */
+@media (max-width: 600px) {
+  .glassy-card {
+    padding: 1.5rem;
+    width: 95%;
+  }
+
+  .glassy-card h2 {
+    font-size: 1.2rem;
+  }
+}
