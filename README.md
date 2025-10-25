@@ -119,6 +119,13 @@ LetsTrip/
         ├── package.json
         └── vite.config.js
 ```
+-----
+
+## 👨‍💻 Author
+
+**I'm Harshvardhan Follow me on**
+💼 GitHub: [@escharsh](https://github.com/escharsh)
+📧 LinkedIn: [Harsh Vardhan](https://www.linkedin.com/in/harsh-vardhan-6748a632a/)
 
 -----
 
