@@ -121,14 +121,14 @@ LetsTrip/
 ```
 -----
 
+## 📄 License
+
+This project is open source and available under the MIT License.
+
+-----
+
 ## 👨‍💻 Author
 
 **I'm Harshvardhan Follow me on**
 💼 GitHub: [@escharsh](https://github.com/escharsh)
 📧 LinkedIn: [Harsh Vardhan](https://www.linkedin.com/in/harsh-vardhan-6748a632a/)
-
------
-
-## 📄 License
-
-This project is open source and available under the MIT License.
